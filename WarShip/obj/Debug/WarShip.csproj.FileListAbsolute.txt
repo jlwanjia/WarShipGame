@@ -1,0 +1,11 @@
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\bin\Debug\WarShip.exe.config
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\bin\Debug\WarShip.exe
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\bin\Debug\WarShip.pdb
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.AssemblyReference.cache
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.Form1.resources
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.Properties.Resources.resources
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.GenerateResource.cache
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.CoreCompileInputs.cache
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.exe
+C:\Users\jlwan\source\repos\C#\WarShip\WarShip\obj\Debug\WarShip.pdb
